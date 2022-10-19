@@ -1,24 +1,50 @@
-﻿namespace ConsoleApp2КПЫВЬДЖБЫКЯАВ;
+﻿using System.Security;
+
+namespace ConsoleApp2КПЫВЬДЖБЫКЯАВ;
 
 internal class PRogram
 {
     private static void Main()
     {
-        List<int> masynya1 = new() { 1,2,3,4,9 }; //9
+        List<int> masynya1 = new() {1, 2, 3, 4, 9}; //9
         string[] masunya2 = {"flower", "fl", "flask"}; //fl
         int[] masynya3 = {1, 24, 3, 4}; //false
-        
+
         Console.WriteLine(First_Zadacha(masynya1));
         Console.WriteLine(Second_Zadacha(masunya2));
         Console.WriteLine(Third_Zadacha(masynya3));
     }
 
-    
-    private static int First_Zadacha(IEnumerable<int> masunya) 
+
+    private static int First_Zadacha(IEnumerable<int> masunya)
         => masunya.Aggregate((x, y) => Math.Abs(x - 10) < Math.Abs(y - 10) ? x : y);
 
+    private static string Second_Zadacha(IEnumerable<string> masunya)
+        => masunya.Aggregate((x, y) => x.Length > y.Length ? y : x);
 
-    private static string Second_Zadacha(IReadOnlyList<string> masunya)
+    private static bool Third_Zadacha(params int[] masunya) => masunya.ToHashSet().Count < masunya.Length;
+        
+}
+
+
+internal class ThisIsAwful
+{
+    private static int GetClosestToTen(List<int> nums)
+    {
+        int closest = 0;
+        int min = int.MaxValue;
+        foreach (int num in nums)
+        {
+            int abs = Math.Abs(num - 10);
+            if (abs >= min) continue;
+            min = abs;
+            closest = num;
+        }
+
+        return closest;
+    }
+
+    private static string FindPrefix(List<string> masunya)
     {
         if (masunya.Count == 0) return "";
         string minStr = masunya[0];
@@ -46,8 +72,8 @@ internal class PRogram
 
         return minStr[..end];
     }
-     
-    private static bool Third_Zadacha(IReadOnlyList<int> masunya)
+    
+    private static bool IsRepeating(IReadOnlyList<int> masunya)
     {
         for (int i = 0; i < masunya.Count; i++)
         {
