@@ -1,0 +1,15 @@
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\bin\Debug\net6.0\ConsoleApp2КПЫВЬДЖБЫКЯАВ.exe
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\bin\Debug\net6.0\ConsoleApp2КПЫВЬДЖБЫКЯАВ.deps.json
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\bin\Debug\net6.0\ConsoleApp2КПЫВЬДЖБЫКЯАВ.runtimeconfig.json
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\bin\Debug\net6.0\ConsoleApp2КПЫВЬДЖБЫКЯАВ.dll
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\bin\Debug\net6.0\ConsoleApp2КПЫВЬДЖБЫКЯАВ.pdb
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\obj\Debug\net6.0\ConsoleApp2КПЫВЬДЖБЫКЯАВ.csproj.AssemblyReference.cache
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\obj\Debug\net6.0\ConsoleApp2КПЫВЬДЖБЫКЯАВ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\obj\Debug\net6.0\ConsoleApp2КПЫВЬДЖБЫКЯАВ.AssemblyInfoInputs.cache
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\obj\Debug\net6.0\ConsoleApp2КПЫВЬДЖБЫКЯАВ.AssemblyInfo.cs
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\obj\Debug\net6.0\ConsoleApp2КПЫВЬДЖБЫКЯАВ.csproj.CoreCompileInputs.cache
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\obj\Debug\net6.0\ConsoleApp2КПЫВЬДЖБЫКЯАВ.dll
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\obj\Debug\net6.0\refint\ConsoleApp2КПЫВЬДЖБЫКЯАВ.dll
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\obj\Debug\net6.0\ConsoleApp2КПЫВЬДЖБЫКЯАВ.pdb
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\obj\Debug\net6.0\ConsoleApp2КПЫВЬДЖБЫКЯАВ.genruntimeconfig.cache
+D:\Projects\RiderProjects\ConsoleApp2КПЫВЬДЖБЫКЯАВБД\ConsoleApp2КПЫВЬДЖБЫКЯАВ\obj\Debug\net6.0\ref\ConsoleApp2КПЫВЬДЖБЫКЯАВ.dll
