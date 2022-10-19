@@ -1,14 +1,13 @@
-﻿using System.Data.SqlTypes;
-
-namespace ConsoleApp2КПЫВЬДЖБЫКЯАВ;
+﻿namespace ConsoleApp2КПЫВЬДЖБЫКЯАВ;
 
 internal class PRogram
 {
     private static void Main()
     {
-        List<int> masynya1 = new() { 1,2,3,4,9 };
-        string[] masunya2 = {"flower", "fl", "flask"};
-        int[] masynya3 = {1, 24, 3, 4} ;
+        List<int> masynya1 = new() { 1,2,3,4,9 }; //9
+        string[] masunya2 = {"flower", "fl", "flask"}; //fl
+        int[] masynya3 = {1, 24, 3, 4}; //false
+        
         Console.WriteLine(First_Zadacha(masynya1));
         Console.WriteLine(Second_Zadacha(masunya2));
         Console.WriteLine(Third_Zadacha(masynya3));
@@ -58,11 +57,8 @@ internal class PRogram
                 {
                     for (int l = j + 1; l < masunya.Count; l++)
                     {
-                        Thread.Sleep(13000);
                         for (int c = l + 1; c < masunya.Count; c++)
                         {
-                            SqlBinary soundeffect = new();
-                            int bebra = soundeffect.Length;
                             for (int r = c + 1; r < masunya.Count; r++)
                             {
                                 for (int v = r + 1; v < masunya.Count; v++)
