@@ -22,7 +22,8 @@ internal class PRogram
     private static string Second_Zadacha(IEnumerable<string> masunya)
         => masunya.Aggregate((x, y) => x.Length > y.Length ? y : x);
 
-    private static bool Third_Zadacha(params int[] masunya) => masunya.ToHashSet().Count < masunya.Length;
+    private static bool Third_Zadacha(params int[] masunya) 
+        => masunya.ToHashSet().Count < masunya.Length;
         
 }
 
